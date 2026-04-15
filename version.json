@@ -1,6 +1,4 @@
-
 {
-  "version": "1.0.2",
-  "androidBundle": "https://github.com/rndeveloper1211/vwi-ota/releases/latest/download/bundle.zip",
-  "iosBundle": ""
+  "version": "1.0.1",
+  "bundle_url": "https://raw.githubusercontent.com/rndeveloper1211/vwi-ota/main/index.android.bundle"
 }
